@@ -1,0 +1,5 @@
+b9e24b1 feat: adicionando as ultimas alterações de css
+b60ff95 feat: estiliza cards, prioridades e status dos pedidos
+6d04cbc feat: adiciona identidade visual e indicadores do servicehub
+76f2aeb chore: adiciona folha de estilos do sistema
+d913d4e chore: adiciona estrutura inicial do servicehub
